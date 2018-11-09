@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>'aAáÁāăảạÆbBcCčdDÐeEēéèễệfFgGhḥHiIīíjJkKḷlLmṃMnñNoOóöớpPqQrRsSŚśšştṭTŢuUúüưūvVwWxXyYzZ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -20,7 +20,6 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
-
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
@@ -97,7 +96,57 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+<e> <p><l>house<s n="n"/></l><r>mane<s n="n"/></r></p></e>
+<e> <p><l>greetings<s n="n"/></l><r>śubhāśayagaḷu<s n="n"/></r></p></e>
+<e> <p><l>book<s n="n"/></l><r>pustaka<s n="n"/></r></p></e>
+<e> <p><l>paper<s n="n"/></l><r>kāgada<s n="n"/></r></p></e>
+<e> <p><l>light<s n="n"/></l><r>beḷaku<s n="n"/></r></p></e>
+<e> <p><l>moon<s n="n"/></l><r>candra<s n="n"/></r></p></e>
+<e> <p><l>star<s n="n"/></l><r>nakṣatra<s n="n"/></r></p></e>
+<e> <p><l>money<s n="n"/></l><r>haṇa<s n="n"/></r></p></e>
+<e> <p><l>teacher<s n="n"/></l><r>śikṣaka<s n="n"/></r></p></e>
+<e> <p><l>student<s n="n"/></l><r>vidyārthi<s n="n"/></r></p></e>
+<e> <p><l>television<s n="n"/></l><r>dūradarśana<s n="n"/></r></p></e>
+<e> <p><l>boy<s n="n"/></l><r>huḍuga<s n="n"/></r></p></e>
+<e> <p><l>girl<s n="n"/></l><r>huḍugi<s n="n"/></r></p></e>
+<e> <p><l>king<s n="n"/></l><r>rāja<s n="n"/></r></p></e>
+<e> <p><l>queen<s n="n"/></l><r>rāṇi<s n="n"/></r></p></e>
+<e> <p><l>prince<s n="n"/></l><r>rājakumāra<s n="n"/></r></p></e>
+<e> <p><l>princess<s n="n"/></l><r>rājakumāri<s n="n"/></r></p></e>
+<e> <p><l>vehicle<s n="n"/></l><r>vāhana<s n="n"/></r></p></e>
+<e> <p><l>car<s n="n"/></l><r>kāru<s n="n"/></r></p></e>
+<e> <p><l>bike<s n="n"/></l><r>baiku<s n="n"/></r></p></e>
+<e> <p><l>film<s n="n"/></l><r>calanacitra<s n="n"/></r></p></e>
+<e> <p><l>tree<s n="n"/></l><r>mara<s n="n"/></r></p></e>
+<e> <p><l>plant<s n="n"/></l><r>sasya<s n="n"/></r></p></e>
+<e> <p><l>flower<s n="n"/></l><r>hūvu<s n="n"/></r></p></e>
+<e> <p><l>leaf<s n="n"/></l><r>ele<s n="n"/></r></p></e>
+<e> <p><l>fruit<s n="n"/></l><r>\haṇṇu<s n="n"/></r></p></e>
+<e> <p><l>mother<s n="n"/></l><r>tāyi<s n="n"/></r></p></e>
+<e> <p><l>father<s n="n"/></l><r>tande<s n="n"/></r></p></e>
+<e> <p><l>grandmother<s n="n"/></l><r>ajji<s n="n"/></r></p></e>
+<e> <p><l>grandfather<s n="n"/></l><r>ajja<s n="n"/></r></p></e>
+<e> <p><l>son<s n="n"/></l><r>maga<s n="n"/></r></p></e>
+<e> <p><l>daughter<s n="n"/></l><r>magaḷu<s n="n"/></r></p></e>
+<e> <p><l>grandson<s n="n"/></l><r>mom'maga<s n="n"/></r></p></e>
+<e> <p><l>granddaughter<s n="n"/></l><r>mom'magaḷu<s n="n"/></r></p></e>
+<e> <p><l>head<s n="n"/></l><r>tale<s n="n"/></r></p></e>
+<e> <p><l>tail<s n="n"/></l><r>bāla<s n="n"/></r></p></e>
+<e> <p><l>coin<s n="n"/></l><r>nāṇya<s n="n"/></r></p></e>
+<e> <p><l>body<s n="n"/></l><r>dēha<s n="n"/></r></p></e> 
+<e> <p><l>soul<s n="n"/></l><r>ātma<s n="n"/></r></p></e>
+<e> <p><l>yoga<s n="n"/></l><r>yōga<s n="n"/></r></p></e>
+<e> <p><l>foot<s n="n"/></l><r>pāda<s n="n"/></r></p></e>
+<e> <p><l>arm<s n="n"/></l><r>tōḷu<s n="n"/></r></p></e>
+<e> <p><l>comb<s n="n"/></l><r>bācaṇige<s n="n"/></r></p></e>
+<e> <p><l>water<s n="n"/></l><r>nīru<s n="n"/></r></p></e>
+<e> <p><l>wallet<s n="n"/></l><r>kaicīla<s n="n"/></r></p></e>
+<e> <p><l>game<s n="n"/></l><r>āṭa<s n="n"/></r></p></e>
+<e> <p><l>shop<s n="n"/></l><r>aṅgaḍi<s n="n"/></r></p></e>
+<e> <p><l>ship<s n="n"/></l><r>haḍagu<s n="n"/></r></p></e>
+<e> <p><l>boat<s n="n"/></l><r>dōṇi<s n="n"/></r></p></e>
+<e> <p><l>music<s n="n"/></l><r>saṅgīta<s n="n"/></r></p></e>
+
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
